@@ -1,0 +1,8 @@
+name: Anti Enderman Grief
+version: '1.0.0.0'
+main: io.github.derexxd.antiEndermanGrief.AntiEndermanGrief
+api-version: '1.18'
+prefix: DerexXD
+authors: [ DerexXD ]
+description: prevent endermen from picking up blocks!
+website: https://www.derekchen.dev/
