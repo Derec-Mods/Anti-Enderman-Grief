@@ -7,7 +7,8 @@ public final class AntiEndermanGrief extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-
+        // Register listener to prevent Endermen from picking up blocks
+        getServer().getPluginManager().registerEvents(new EndermanPickupListener(), this);
     }
 
     @Override
