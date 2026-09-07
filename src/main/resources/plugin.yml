@@ -1,4 +1,4 @@
-name: Anti Enderman Grief
+name: AntiEndermanGrief
 version: '1.0.0.0'
 main: io.github.derexxd.antiEndermanGrief.AntiEndermanGrief
 api-version: '1.18'
