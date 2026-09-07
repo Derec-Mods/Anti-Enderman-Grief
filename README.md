@@ -1,7 +1,7 @@
 
 
 > If this project helped you, please consider leaving some stars [on the Github](https://github.com/Derec-Mods)!
-
+ 
 
 This datapack introduces a simple yet effective system that prevents Endermen from placing or removing blocks in the world. Designed to maintain the integrity of your builds, this feature ensures that Endermen no longer cause unwanted changes to the environment. 
 
